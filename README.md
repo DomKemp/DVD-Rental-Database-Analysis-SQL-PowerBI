@@ -2,7 +2,7 @@
 
 This project is focused on extracting meaningful insights from a DVD rental database using SQL query and visualizing the results with PowerBI. The DVD rental database represents the business processes of a DVD rental store, within a period of 4 months. The database utilized in this project is designed with a snowflake schema, requiring slightly more complex joins between tables to extract relevant information with SQL query.
 
-To start, I designed and executed an SQL query to join multiple tables within the database and extract the necessary information. Once the data was extracted, I downloaded it as a CSV file and imported it into PowerBI to clean and organize the data using Power Query Editor. I have then created the necessary tables and built the relationship model so that the data can be manipulated. Finally, I have created interactive visualizations and dashboards that contain slicers to filter the visuals by month and product category. This would allow users to analyze the data in a more intuitive and user-friendly way and gain valuable insights.
+To start, I designed and executed an SQL query to join multiple tables within the database and extract the necessary information. Once the data was extracted, I downloaded it as a CSV file and imported it into PowerBI to clean and organize the data using Power Query Editor. I have then created the necessary tables and built the relationship model so that the data can be manipulated. Finally, I have created interactive visualizations and dashboards that contain slicers to filter the visuals by month and film genres. This would allow users to analyze the data in a more intuitive and user-friendly way and gain valuable insights.
 
 ##  Data Visualization in PowerBI
 
